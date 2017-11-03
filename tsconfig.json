@@ -15,6 +15,9 @@
         "./environments"
       ]
     },
+    "angularCompilerOptions": {
+      "preserveWhitespaces": false
+    },
     "types": [
       "node",
       "jasmine"
